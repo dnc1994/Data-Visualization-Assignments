@@ -1,0 +1,2566 @@
+{
+  "links": [
+    {
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 3
+    },
+    {
+      "source": 2,
+      "target": 4
+    },
+    {
+      "source": 2,
+      "target": 5
+    },
+    {
+      "source": 2,
+      "target": 6
+    },
+    {
+      "source": 2,
+      "target": 7
+    },
+    {
+      "source": 2,
+      "target": 8
+    },
+    {
+      "source": 2,
+      "target": 9
+    },
+    {
+      "source": 10,
+      "target": 3
+    },
+    {
+      "source": 10,
+      "target": 5
+    },
+    {
+      "source": 10,
+      "target": 8
+    },
+    {
+      "source": 10,
+      "target": 9
+    },
+    {
+      "source": 11,
+      "target": 8
+    },
+    {
+      "source": 11,
+      "target": 9
+    },
+    {
+      "source": 12,
+      "target": 13
+    },
+    {
+      "source": 12,
+      "target": 14
+    },
+    {
+      "source": 12,
+      "target": 15
+    },
+    {
+      "source": 12,
+      "target": 16
+    },
+    {
+      "source": 12,
+      "target": 17
+    },
+    {
+      "source": 12,
+      "target": 18
+    },
+    {
+      "source": 12,
+      "target": 19
+    },
+    {
+      "source": 12,
+      "target": 20
+    },
+    {
+      "source": 12,
+      "target": 4
+    },
+    {
+      "source": 12,
+      "target": 21
+    },
+    {
+      "source": 12,
+      "target": 1
+    },
+    {
+      "source": 12,
+      "target": 22
+    },
+    {
+      "source": 12,
+      "target": 23
+    },
+    {
+      "source": 12,
+      "target": 24
+    },
+    {
+      "source": 12,
+      "target": 25
+    },
+    {
+      "source": 12,
+      "target": 26
+    },
+    {
+      "source": 12,
+      "target": 27
+    },
+    {
+      "source": 12,
+      "target": 28
+    },
+    {
+      "source": 12,
+      "target": 29
+    },
+    {
+      "source": 12,
+      "target": 30
+    },
+    {
+      "source": 12,
+      "target": 6
+    },
+    {
+      "source": 12,
+      "target": 7
+    },
+    {
+      "source": 12,
+      "target": 31
+    },
+    {
+      "source": 12,
+      "target": 32
+    },
+    {
+      "source": 12,
+      "target": 33
+    },
+    {
+      "source": 12,
+      "target": 34
+    },
+    {
+      "source": 12,
+      "target": 35
+    },
+    {
+      "source": 12,
+      "target": 36
+    },
+    {
+      "source": 12,
+      "target": 37
+    },
+    {
+      "source": 12,
+      "target": 38
+    },
+    {
+      "source": 12,
+      "target": 39
+    },
+    {
+      "source": 12,
+      "target": 8
+    },
+    {
+      "source": 12,
+      "target": 9
+    },
+    {
+      "source": 12,
+      "target": 40
+    },
+    {
+      "source": 12,
+      "target": 41
+    },
+    {
+      "source": 12,
+      "target": 42
+    },
+    {
+      "source": 12,
+      "target": 43
+    },
+    {
+      "source": 12,
+      "target": 44
+    },
+    {
+      "source": 12,
+      "target": 45
+    },
+    {
+      "source": 12,
+      "target": 46
+    },
+    {
+      "source": 47,
+      "target": 48
+    },
+    {
+      "source": 47,
+      "target": 49
+    },
+    {
+      "source": 50,
+      "target": 51
+    },
+    {
+      "source": 50,
+      "target": 52
+    },
+    {
+      "source": 50,
+      "target": 53
+    },
+    {
+      "source": 50,
+      "target": 54
+    },
+    {
+      "source": 50,
+      "target": 55
+    },
+    {
+      "source": 50,
+      "target": 56
+    },
+    {
+      "source": 50,
+      "target": 57
+    },
+    {
+      "source": 50,
+      "target": 58
+    },
+    {
+      "source": 50,
+      "target": 59
+    },
+    {
+      "source": 60,
+      "target": 51
+    },
+    {
+      "source": 60,
+      "target": 52
+    },
+    {
+      "source": 60,
+      "target": 54
+    },
+    {
+      "source": 60,
+      "target": 55
+    },
+    {
+      "source": 60,
+      "target": 56
+    },
+    {
+      "source": 60,
+      "target": 58
+    },
+    {
+      "source": 60,
+      "target": 61
+    },
+    {
+      "source": 62,
+      "target": 63
+    },
+    {
+      "source": 62,
+      "target": 64
+    },
+    {
+      "source": 62,
+      "target": 65
+    },
+    {
+      "source": 62,
+      "target": 66
+    },
+    {
+      "source": 62,
+      "target": 67
+    },
+    {
+      "source": 62,
+      "target": 68
+    },
+    {
+      "source": 62,
+      "target": 69
+    },
+    {
+      "source": 62,
+      "target": 45
+    },
+    {
+      "source": 62,
+      "target": 70
+    },
+    {
+      "source": 62,
+      "target": 71
+    },
+    {
+      "source": 62,
+      "target": 72
+    },
+    {
+      "source": 62,
+      "target": 54
+    },
+    {
+      "source": 62,
+      "target": 73
+    },
+    {
+      "source": 62,
+      "target": 74
+    },
+    {
+      "source": 62,
+      "target": 59
+    },
+    {
+      "source": 62,
+      "target": 75
+    },
+    {
+      "source": 62,
+      "target": 76
+    },
+    {
+      "source": 62,
+      "target": 61
+    },
+    {
+      "source": 62,
+      "target": 77
+    },
+    {
+      "source": 62,
+      "target": 78
+    },
+    {
+      "source": 62,
+      "target": 79
+    },
+    {
+      "source": 62,
+      "target": 80
+    },
+    {
+      "source": 62,
+      "target": 81
+    },
+    {
+      "source": 62,
+      "target": 82
+    },
+    {
+      "source": 62,
+      "target": 83
+    },
+    {
+      "source": 62,
+      "target": 84
+    },
+    {
+      "source": 62,
+      "target": 85
+    },
+    {
+      "source": 86,
+      "target": 87
+    },
+    {
+      "source": 86,
+      "target": 53
+    },
+    {
+      "source": 86,
+      "target": 54
+    },
+    {
+      "source": 86,
+      "target": 88
+    },
+    {
+      "source": 86,
+      "target": 61
+    },
+    {
+      "source": 86,
+      "target": 77
+    },
+    {
+      "source": 86,
+      "target": 80
+    },
+    {
+      "source": 86,
+      "target": 89
+    },
+    {
+      "source": 86,
+      "target": 90
+    },
+    {
+      "source": 86,
+      "target": 91
+    },
+    {
+      "source": 92,
+      "target": 93
+    },
+    {
+      "source": 92,
+      "target": 94
+    },
+    {
+      "source": 92,
+      "target": 95
+    },
+    {
+      "source": 92,
+      "target": 61
+    },
+    {
+      "source": 96,
+      "target": 8
+    },
+    {
+      "source": 96,
+      "target": 94
+    },
+    {
+      "source": 97,
+      "target": 8
+    },
+    {
+      "source": 97,
+      "target": 94
+    },
+    {
+      "source": 97,
+      "target": 98
+    },
+    {
+      "source": 97,
+      "target": 54
+    },
+    {
+      "source": 97,
+      "target": 99
+    },
+    {
+      "source": 97,
+      "target": 83
+    },
+    {
+      "source": 97,
+      "target": 100
+    },
+    {
+      "source": 97,
+      "target": 91
+    },
+    {
+      "source": 97,
+      "target": 101
+    },
+    {
+      "source": 97,
+      "target": 102
+    },
+    {
+      "source": 97,
+      "target": 103
+    },
+    {
+      "source": 97,
+      "target": 104
+    },
+    {
+      "source": 97,
+      "target": 105
+    },
+    {
+      "source": 97,
+      "target": 106
+    },
+    {
+      "source": 107,
+      "target": 108
+    },
+    {
+      "source": 107,
+      "target": 54
+    },
+    {
+      "source": 107,
+      "target": 83
+    },
+    {
+      "source": 107,
+      "target": 89
+    },
+    {
+      "source": 107,
+      "target": 109
+    },
+    {
+      "source": 107,
+      "target": 110
+    },
+    {
+      "source": 107,
+      "target": 103
+    },
+    {
+      "source": 107,
+      "target": 111
+    },
+    {
+      "source": 107,
+      "target": 104
+    },
+    {
+      "source": 107,
+      "target": 105
+    },
+    {
+      "source": 112,
+      "target": 113
+    },
+    {
+      "source": 112,
+      "target": 114
+    },
+    {
+      "source": 112,
+      "target": 54
+    },
+    {
+      "source": 112,
+      "target": 61
+    },
+    {
+      "source": 112,
+      "target": 81
+    },
+    {
+      "source": 112,
+      "target": 83
+    },
+    {
+      "source": 112,
+      "target": 115
+    },
+    {
+      "source": 112,
+      "target": 116
+    },
+    {
+      "source": 112,
+      "target": 117
+    },
+    {
+      "source": 112,
+      "target": 118
+    },
+    {
+      "source": 112,
+      "target": 103
+    },
+    {
+      "source": 112,
+      "target": 119
+    },
+    {
+      "source": 112,
+      "target": 120
+    },
+    {
+      "source": 112,
+      "target": 104
+    },
+    {
+      "source": 112,
+      "target": 121
+    },
+    {
+      "source": 112,
+      "target": 105
+    },
+    {
+      "source": 112,
+      "target": 106
+    },
+    {
+      "source": 112,
+      "target": 122
+    },
+    {
+      "source": 112,
+      "target": 123
+    },
+    {
+      "source": 112,
+      "target": 124
+    },
+    {
+      "source": 112,
+      "target": 125
+    },
+    {
+      "source": 126,
+      "target": 127
+    },
+    {
+      "source": 126,
+      "target": 128
+    },
+    {
+      "source": 126,
+      "target": 45
+    },
+    {
+      "source": 126,
+      "target": 49
+    },
+    {
+      "source": 126,
+      "target": 56
+    },
+    {
+      "source": 126,
+      "target": 99
+    },
+    {
+      "source": 126,
+      "target": 129
+    },
+    {
+      "source": 126,
+      "target": 61
+    },
+    {
+      "source": 126,
+      "target": 81
+    },
+    {
+      "source": 126,
+      "target": 130
+    },
+    {
+      "source": 126,
+      "target": 83
+    },
+    {
+      "source": 126,
+      "target": 115
+    },
+    {
+      "source": 126,
+      "target": 91
+    },
+    {
+      "source": 126,
+      "target": 101
+    },
+    {
+      "source": 126,
+      "target": 102
+    },
+    {
+      "source": 126,
+      "target": 103
+    },
+    {
+      "source": 126,
+      "target": 120
+    },
+    {
+      "source": 126,
+      "target": 104
+    },
+    {
+      "source": 126,
+      "target": 121
+    },
+    {
+      "source": 126,
+      "target": 105
+    },
+    {
+      "source": 126,
+      "target": 106
+    },
+    {
+      "source": 126,
+      "target": 122
+    },
+    {
+      "source": 126,
+      "target": 123
+    },
+    {
+      "source": 126,
+      "target": 124
+    },
+    {
+      "source": 126,
+      "target": 131
+    },
+    {
+      "source": 132,
+      "target": 54
+    },
+    {
+      "source": 132,
+      "target": 83
+    },
+    {
+      "source": 132,
+      "target": 91
+    },
+    {
+      "source": 132,
+      "target": 103
+    },
+    {
+      "source": 132,
+      "target": 105
+    },
+    {
+      "source": 132,
+      "target": 133
+    },
+    {
+      "source": 132,
+      "target": 134
+    },
+    {
+      "source": 135,
+      "target": 113
+    },
+    {
+      "source": 135,
+      "target": 114
+    },
+    {
+      "source": 135,
+      "target": 136
+    },
+    {
+      "source": 135,
+      "target": 61
+    },
+    {
+      "source": 135,
+      "target": 137
+    },
+    {
+      "source": 135,
+      "target": 81
+    },
+    {
+      "source": 135,
+      "target": 115
+    },
+    {
+      "source": 135,
+      "target": 138
+    },
+    {
+      "source": 135,
+      "target": 139
+    },
+    {
+      "source": 135,
+      "target": 102
+    },
+    {
+      "source": 135,
+      "target": 120
+    },
+    {
+      "source": 135,
+      "target": 121
+    },
+    {
+      "source": 135,
+      "target": 106
+    },
+    {
+      "source": 135,
+      "target": 131
+    },
+    {
+      "source": 135,
+      "target": 134
+    },
+    {
+      "source": 135,
+      "target": 140
+    },
+    {
+      "source": 135,
+      "target": 141
+    },
+    {
+      "source": 142,
+      "target": 61
+    },
+    {
+      "source": 142,
+      "target": 137
+    },
+    {
+      "source": 142,
+      "target": 81
+    },
+    {
+      "source": 142,
+      "target": 115
+    },
+    {
+      "source": 142,
+      "target": 139
+    },
+    {
+      "source": 142,
+      "target": 91
+    },
+    {
+      "source": 142,
+      "target": 101
+    },
+    {
+      "source": 142,
+      "target": 102
+    },
+    {
+      "source": 142,
+      "target": 103
+    },
+    {
+      "source": 142,
+      "target": 122
+    },
+    {
+      "source": 142,
+      "target": 131
+    },
+    {
+      "source": 142,
+      "target": 134
+    },
+    {
+      "source": 142,
+      "target": 143
+    },
+    {
+      "source": 142,
+      "target": 140
+    },
+    {
+      "source": 142,
+      "target": 144
+    },
+    {
+      "source": 145,
+      "target": 45
+    },
+    {
+      "source": 145,
+      "target": 113
+    },
+    {
+      "source": 145,
+      "target": 99
+    },
+    {
+      "source": 145,
+      "target": 61
+    },
+    {
+      "source": 145,
+      "target": 83
+    },
+    {
+      "source": 145,
+      "target": 138
+    },
+    {
+      "source": 145,
+      "target": 103
+    },
+    {
+      "source": 145,
+      "target": 106
+    },
+    {
+      "source": 145,
+      "target": 122
+    },
+    {
+      "source": 145,
+      "target": 133
+    },
+    {
+      "source": 145,
+      "target": 131
+    },
+    {
+      "source": 145,
+      "target": 134
+    },
+    {
+      "source": 145,
+      "target": 146
+    },
+    {
+      "source": 145,
+      "target": 147
+    },
+    {
+      "source": 145,
+      "target": 148
+    },
+    {
+      "source": 145,
+      "target": 144
+    },
+    {
+      "source": 145,
+      "target": 149
+    },
+    {
+      "source": 145,
+      "target": 150
+    },
+    {
+      "source": 145,
+      "target": 151
+    },
+    {
+      "source": 152,
+      "target": 153
+    },
+    {
+      "source": 152,
+      "target": 83
+    },
+    {
+      "source": 152,
+      "target": 101
+    },
+    {
+      "source": 152,
+      "target": 102
+    },
+    {
+      "source": 152,
+      "target": 103
+    },
+    {
+      "source": 152,
+      "target": 154
+    },
+    {
+      "source": 152,
+      "target": 105
+    },
+    {
+      "source": 152,
+      "target": 106
+    },
+    {
+      "source": 152,
+      "target": 122
+    },
+    {
+      "source": 152,
+      "target": 131
+    },
+    {
+      "source": 152,
+      "target": 134
+    },
+    {
+      "source": 152,
+      "target": 155
+    },
+    {
+      "source": 152,
+      "target": 156
+    },
+    {
+      "source": 152,
+      "target": 157
+    },
+    {
+      "source": 152,
+      "target": 150
+    },
+    {
+      "source": 152,
+      "target": 158
+    },
+    {
+      "source": 159,
+      "target": 87
+    },
+    {
+      "source": 159,
+      "target": 64
+    },
+    {
+      "source": 159,
+      "target": 68
+    },
+    {
+      "source": 159,
+      "target": 160
+    },
+    {
+      "source": 159,
+      "target": 69
+    },
+    {
+      "source": 159,
+      "target": 45
+    },
+    {
+      "source": 159,
+      "target": 70
+    },
+    {
+      "source": 159,
+      "target": 72
+    },
+    {
+      "source": 159,
+      "target": 54
+    },
+    {
+      "source": 159,
+      "target": 99
+    },
+    {
+      "source": 159,
+      "target": 74
+    },
+    {
+      "source": 159,
+      "target": 75
+    },
+    {
+      "source": 159,
+      "target": 77
+    },
+    {
+      "source": 159,
+      "target": 80
+    },
+    {
+      "source": 159,
+      "target": 161
+    },
+    {
+      "source": 159,
+      "target": 83
+    },
+    {
+      "source": 159,
+      "target": 162
+    },
+    {
+      "source": 159,
+      "target": 85
+    },
+    {
+      "source": 159,
+      "target": 139
+    },
+    {
+      "source": 159,
+      "target": 91
+    },
+    {
+      "source": 159,
+      "target": 103
+    },
+    {
+      "source": 159,
+      "target": 104
+    },
+    {
+      "source": 159,
+      "target": 105
+    },
+    {
+      "source": 159,
+      "target": 163
+    },
+    {
+      "source": 159,
+      "target": 164
+    },
+    {
+      "source": 159,
+      "target": 165
+    },
+    {
+      "source": 159,
+      "target": 155
+    },
+    {
+      "source": 159,
+      "target": 166
+    },
+    {
+      "source": 159,
+      "target": 167
+    },
+    {
+      "source": 168,
+      "target": 169
+    },
+    {
+      "source": 168,
+      "target": 113
+    },
+    {
+      "source": 168,
+      "target": 114
+    },
+    {
+      "source": 168,
+      "target": 49
+    },
+    {
+      "source": 168,
+      "target": 136
+    },
+    {
+      "source": 168,
+      "target": 61
+    },
+    {
+      "source": 168,
+      "target": 137
+    },
+    {
+      "source": 168,
+      "target": 83
+    },
+    {
+      "source": 168,
+      "target": 115
+    },
+    {
+      "source": 168,
+      "target": 170
+    }
+  ],
+  "nodes": [
+    {
+      "id": 9304045,
+      "title": "Generalized Calabi-Yau Manifolds and the Mirror of a Rigid Manifold",
+      "authors": "P. Candelas, E. Derrick and L. Parkes",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9204040,
+      "title": "On the Moduli Space of the $T^6/Z_3$ Orbifold and Its Modular Group",
+      "authors": "S. Ferrara, P. Fr`e, P. Soriani",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9308122,
+      "title": "Mirror Symmetry, Mirror Map and Applications to Calabi-Yau Hypersurfaces",
+      "authors": "S. Hosono, A. Klemm, S. Theisen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9203084,
+      "title": "Periods and Duality Symmetries in Calabi-Yau Compactifications",
+      "authors": "Anamaria Font",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9204035,
+      "title": "Picard-Fuchs Equations and Special Geometry",
+      "authors": "A. Ceresole, R. D'Auria, S. Ferrara, W. Lerche and J. Louis",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205041,
+      "title": "Considerations of One-Modulus Calabi-Yau Compactifications: Picard-Fuchs",
+      "authors": "Albrecht Klemm and Stefan Theisen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9207049,
+      "title": "Higher Twisted Sector Couplings of $Z_N$ Orbifolds",
+      "authors": "J. Erler, D. Jungnickel, M. Spalinski and S. Stieberger",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9207111,
+      "title": "Comment on the Generation Number in Orbifold Compactifications",
+      "authors": "Jens Erler and Albrecht Klemm",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9301042,
+      "title": "Phases of $N=2$ Theories In Two Dimensions",
+      "authors": "Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9301043,
+      "title": "Multiple Mirror Manifolds and Topology Change in String Theory",
+      "authors": "Paul S. Aspinwall, Brian R. Greene, and David R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9309097,
+      "title": "Calabi-Yau Moduli Space, Mirror Manifolds and Spacetime Topology Change",
+      "authors": "P.S. Aspinwall, B.R. Greene and D.R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9311042,
+      "title": "Measuring Small Distances in N=2 Sigma Models",
+      "authors": "Paul S. Aspinwall, Brian R. Greene, and David R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9401139,
+      "title": "Target Space Duality in String Theory",
+      "authors": "A. Giveon, M. Porrati and E. Rabinovici",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9201015,
+      "title": "An Algorithm to Generate Classical Solutions for String Effective Action",
+      "authors": "S. Kar, S. Khastgir and A. Kumar",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9201040,
+      "title": "Target Space Duality as a Symmetry of String Field Theory",
+      "authors": "Taichiro Kugo and Barton Zwiebach",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9201047,
+      "title": "Duality-Invariant Gaugino Condensation and One-Loop Corrected Kahler",
+      "authors": "18 pages",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9202046,
+      "title": "Duality Anomaly Cancellation, Minimal String Unification and the",
+      "authors": "Luis E. Ibanez and Dieter Luest",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9202059,
+      "title": "Axion Couplings and Effective Cut-Offs in Superstring Compactifications",
+      "authors": "Mary K. Gaillard and T.R. Taylor",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9202092,
+      "title": "Strings on Curved Spacetimes: Black Holes, Torsion, and Duality",
+      "authors": "Paul Ginsparg and Fernando Quevedo",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9203008,
+      "title": "Gauge Symmetries of the N=2 String",
+      "authors": "Amit Giveon and Alfred Shapere",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9203031,
+      "title": "Two Dimensional Stringy Black Holes with One Asymptotically Flat Domain",
+      "authors": "Petr Horava",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9204037,
+      "title": "Yukawa Couplings for Bosonic $Z_N$ Orbifolds: Their Moduli and Twisted",
+      "authors": "S. Stieberger, D. Jungnickel, J. Lauer, M. Spalinski",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9204046,
+      "title": "Rotating Charged Black Hole Solution in Heterotic String Theory",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205046,
+      "title": "Cosmological String Backgrounds from Gauged WZW Models",
+      "authors": "C. Kounnas and D. Luest",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205060,
+      "title": "Cosmological Implications of Domain Walls due to Duality Invariant",
+      "authors": "M. Cvetiv c and R. L. Davis",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205062,
+      "title": "Four Dimensional Stringy Black Membrane",
+      "authors": "Supriya K. Kar, S. Pratik Khastgir and Gautam Sengupta",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205068,
+      "title": "ERRATA for One-Loop Threshold Effects in String Unification",
+      "authors": "Vadim Kaplunovsky",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9206023,
+      "title": "On String Field Theory and Effective Actions",
+      "authors": "Amit Giveon",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9206051,
+      "title": "Gauged String Actions and O($tilde{d}$, $tilde{d}$) Transformation",
+      "authors": "Alok Kumar",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9206078,
+      "title": "A Closed, Expanding Universe in String Theory",
+      "authors": "Chiara R. Nappi and Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9207016,
+      "title": "Noncompact Symmetries in String Theory",
+      "authors": "Jnan Maharana and John H. Schwarz",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9208076,
+      "title": "On Cosmological String Backgrounds with Toroidal Isometries",
+      "authors": "Amit Giveon and Andrea Pasquinucci",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9209052,
+      "title": "Boosting Away Singularities from Conformal String Backgrounds",
+      "authors": "M. Gasperini, J. Maharana, G. Veneziano",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9210015,
+      "title": "Dilaton shift under duality and torsion of elliptic complex",
+      "authors": "A.S. Schwarz and A.A. Tseytlin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9210021,
+      "title": "Duality Symmetries from Non--Abelian Isometries in String Theories",
+      "authors": "Xenia C. de la Ossa and Fernando Quevedo",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9210121,
+      "title": "Marginal Deformations of WZNW and Coset Models from O(d,d)",
+      "authors": "S.F. Hassan and Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9211021,
+      "title": "Pre-Big-Bang in String Cosmology",
+      "authors": "M. Gasperini and G. Veneziano",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9211041,
+      "title": "Wormholes and symmetries of string effective action",
+      "authors": "S. Pratik Khastgir and Jnanadeva Maharana",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9212089,
+      "title": "A Comment on Duality Transformations and (Discrete) Gauge Symmetries in",
+      "authors": "L. Ibanez and D.Luest",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9301005,
+      "title": "Duality, Marginal Perturbations and Gauging",
+      "authors": "M{aa}ns Henningson and Chiara R. Nappi",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9302033,
+      "title": "Exact Duality Symmetries in CFT and String Theory",
+      "authors": "E. Kiritsis",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9302069,
+      "title": "Topology changing processes and symmetries of string effective action",
+      "authors": "S. Pratik Khastgir and Jnanadeva Maharana",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9302126,
+      "title": "Exact Three Dimensional Black Holes in String Theory",
+      "authors": "Gary T. Horowitz and Dean L. Welch",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9303032,
+      "title": "$O(tilde d,tilde d)$ Transformations and 3D Black Hole",
+      "authors": "Abbas Ali and Alok Kumar",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9304155,
+      "title": "Heterotic string solutions and coset conformal field theories",
+      "authors": "A.Giveon, E.Rabinovici and A.A.Tseytlin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9305185,
+      "title": "Duality Symmetries of 4D Heterotic Strings",
+      "authors": "John H. Schwarz and Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9308042,
+      "title": "On field redefinitions and exact solutions in string theory",
+      "authors": "A.A.Tseytlin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9404151,
+      "title": "String Theory on K3 Surfaces",
+      "authors": "P.S. Aspinwall and D.R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9305139,
+      "title": "Finite in All Directions",
+      "authors": "G. Moore",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9309140,
+      "title": "Kodaira-Spencer Theory of Gravity and Exact Results for Quantum String",
+      "authors": "M. Bershadsky, S. Cecotti, H. Ooguri, C. Vafa",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9407087,
+      "title": "Monopole Condensation, And Confinement In N=2 Supersymmetric Yang-Mills",
+      "authors": "N. Seiberg and E. Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9204102,
+      "title": "A New Supersymmetric Index",
+      "authors": "Sergio Cecotti, Paul Fendley, Ken Intriligator and Cumrun Vafa",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9211097,
+      "title": "On Classification of N=2 Supersymmetric Theories, (e-mail uncorrupted",
+      "authors": "S. Cecotti and C. Vafa",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9401139,
+      "title": "Target Space Duality in String Theory",
+      "authors": "A. Giveon, M. Porrati and E. Rabinovici",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9402002,
+      "title": "Strong-Weak Coupling Duality in Four Dimensional String Theory",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9402005,
+      "title": "Field Dependent Gauge Couplings in Locally Supersymmetric Effective",
+      "authors": "V.Kaplunovsky and J.Louis",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9402044,
+      "title": "Exact Results on the Space of Vacua of Four Dimensional SUSY Gauge",
+      "authors": "Nathan Seiberg",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9403195,
+      "title": "Supersymmetric Yang-Mills Theory On A Four-Manifold",
+      "authors": "Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9403198,
+      "title": "Exact Superpotentials in Four Dimensions",
+      "authors": "K. Intriligator, R.G. Leigh and N. Seiberg",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9406128,
+      "title": "Non-Abelian Strong-Weak Coupling Duality in (String-Derived) N=4",
+      "authors": "L. Girardello, A. Giveon, M. Porrati and A. Zaffaroni",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9408099,
+      "title": "Monopoles, Duality and Chiral Symmetry Breaking in N=2 Supersymmetric",
+      "authors": "N. Seiberg and E. Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9407087,
+      "title": "Monopole Condensation, And Confinement In N=2 Supersymmetric Yang-Mills",
+      "authors": "N. Seiberg and E. Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9501030,
+      "title": "Strong/Weak Coupling Duality from the Dual String",
+      "authors": "M. J. Duff",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205081,
+      "title": "A Heterotic Multimonopole Solution",
+      "authors": "Ramzi R. Khuri",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9207053,
+      "title": "Electric Magnetic Duality in String Theory",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9208055,
+      "title": "Putting String/Fivebrane Duality to the Test",
+      "authors": "J. A. Dixon, M. J. Duff and J. C. Plefka",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9209016,
+      "title": "Quantization of Dyon Charge and Electric-Magnetic Duality in String",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9211056,
+      "title": "Magnetic Monopoles in String Theory",
+      "authors": "Jerome P. Gauntlett, Jeffrey A. Harvey and James T. Liu",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9303057,
+      "title": "Magnetic Monopoles, Bogomol'nyi Bound and SL(2,Z) Invariance in String",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9305142,
+      "title": "Four-Dimensional String/String Duality",
+      "authors": "M. J. Duff and Ramzi R. Khuri",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9306052,
+      "title": "Black and super p-branes in diverse dimensions",
+      "authors": "M. J. Duff and J. X. Lu",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9306125,
+      "title": "Five-Brane Effective Field Theory on Calabi-Yau Threefolds",
+      "authors": "R. D'Auria, S. Ferrara and M. Villasante",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9311120,
+      "title": "New Black Hole, String and Membrane Solutions of the Four-Dimensional",
+      "authors": "M.J.Duff, Ramzi R. Khuri, Ruben Minasian, Joachim Rahmfeld",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9402032,
+      "title": "Dyon - Monopole Bound States, Self-Dual Harmonic Forms on the",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9406105,
+      "title": "Massive String States as Extreme Black Holes",
+      "authors": "M.J. Duff and J. Rahmfeld",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9406198,
+      "title": "Putting string/string duality to the test",
+      "authors": "M. J. Duff and R. Minasian",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9407021,
+      "title": "On Target-Space Duality in p-Branes",
+      "authors": "R. Percacci and E. Sezgin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9407111,
+      "title": "S-Duality and the Spectrum of Magnetic Monopoles in Heterotic String",
+      "authors": "J. P. Gauntlett and J. A. Harvey",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9408040,
+      "title": "Extremal black holes as exact string solutions",
+      "authors": "G.T. Horowitz and A.A. Tseytlin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9408074,
+      "title": "A Strong Coupling Test of S-Duality",
+      "authors": "Cumrun Vafa and Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9408083,
+      "title": "Strong-Weak Coupling Duality in Three Dimensional String Theory",
+      "authors": "Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9408099,
+      "title": "Monopoles, Duality and Chiral Symmetry Breaking in N=2 Supersymmetric",
+      "authors": "N. Seiberg and E. Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9409021,
+      "title": "A New Class of Exact Solutions in String Theory",
+      "authors": "Gary T. Horowitz and A.A. Tseytlin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9410167,
+      "title": "Unity of Superstring Dualities",
+      "authors": "C. M. Hull and P. K. Townsend",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9410210,
+      "title": "Classical/Quantum Duality",
+      "authors": "M. J. Duff",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9412184,
+      "title": "String Solitons",
+      "authors": "M. J. Duff, Ramzi R. Khuri and J. X. Lu",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9503124,
+      "title": "String Theory Dynamics In Various Dimensions",
+      "authors": "Choonkyu Lee and Piljin Yi",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9205027,
+      "title": "Supersymmetry as a Cosmic Censor",
+      "authors": "Renata Kallosh, Andrei Linde, Tom'as Ort'in, Amanda Peet and Antoine",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9406012,
+      "title": "Summing Over World-Sheet Boundaries",
+      "authors": "Michael B. Green and Joe Polchinski",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411149,
+      "title": "Electric-Magnetic Duality in Supersymmetric Non-Abelian Gauge Theories",
+      "authors": "N. Seiberg",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411178,
+      "title": "Evidence for Non-perturbative String Symmetries",
+      "authors": "D. Fliegner, P. Haberl, M.G. Schmidt, C. Schubert",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9501030,
+      "title": "Strong/Weak Coupling Duality from the Dual String",
+      "authors": "M. J. Duff",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504090,
+      "title": "Massless Black Holes and Conifolds in String Theory",
+      "authors": "D. Korotkin and H. Nicolai (University of Hamburg)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9201059,
+      "title": "Quantum Hair on Black Holes",
+      "authors": "Sidney Coleman, John Preskill, and Frank Wilczek",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9309097,
+      "title": "Calabi-Yau Moduli Space, Mirror Manifolds and Spacetime Topology Change",
+      "authors": "P.S. Aspinwall, B.R. Greene and D.R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9309152,
+      "title": "Hairy Black Holes in String Theory",
+      "authors": "S.B. Giddings, J. A. Harvey, Joseph Polchinski, S.H. Shenker, and",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504145,
+      "title": "Black Hole Condensation and the Unification of String Vacua",
+      "authors": "Brian R. Greene, David R. Morrison, and Andrew Strominger",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505025,
+      "title": "U-Duality and Integral Structures",
+      "authors": "Paul S. Aspinwall and David R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9310067,
+      "title": "Hidden symmetries, special geometry and quaternionic manifolds",
+      "authors": "Marco Matone",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9404151,
+      "title": "String Theory on K3 Surfaces",
+      "authors": "P.S. Aspinwall and D.R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9412115,
+      "title": "The Moduli Space of N = 2 Superconformal Field Theories",
+      "authors": "P. Kosi'nski, J. Lukierski, P. Ma'slanka and J. Sobczyk",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9501068,
+      "title": "The eleven-dimensional supermembrane revisited",
+      "authors": "E. Elizalde and S.D. Odintsov",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9502072,
+      "title": "Duality Transformations in Supersymmetric Yang-Mills Theories coupled to",
+      "authors": "A. Ceresole, R. D'Auria, S. Ferrara and A. Van Proeyen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9503124,
+      "title": "String Theory Dynamics In Various Dimensions",
+      "authors": "Choonkyu Lee and Piljin Yi",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504027,
+      "title": "STRING STRING DUALITY CONJECTURE IN SIX DIMENSIONS AND CHARGED SOLITONIC",
+      "authors": "S. James Gates, Jr. and Lubna Rana",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504047,
+      "title": "The Heterotic String is a Soliton",
+      "authors": "J. Barcelos-Neto, N.R.F. Braga and S.M. de Souza",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504090,
+      "title": "Massless Black Holes and Conifolds in String Theory",
+      "authors": "D. Korotkin and H. Nicolai (University of Hamburg)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505054,
+      "title": "Maximally Supersymmetric String Theories in D<10",
+      "authors": "Shyamoli Chaudhuri, G. Hockney, and Joseph D. Lykken",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9304154,
+      "title": "Duality Symmetric Actions",
+      "authors": "John H. Schwarz and Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9501022,
+      "title": "Reducing $S$- duality to $T$- duality",
+      "authors": "J. A. Harvey, G. Moore and A. Strominger",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9502057,
+      "title": "S-Duality in N=4 Yang-Mills Theories with General Gauge Groups,",
+      "authors": "Luciano Girardello, Amit Giveon, Massimo Porrati, and Alberto",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9503179,
+      "title": "Duality, Monopoles, Dyons, Confinement and Oblique Confinement in",
+      "authors": "K. Intriligator and N. Seiberg",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505105,
+      "title": "Exact Results for N=2 Compactifications of Heterotic Strings",
+      "authors": "Shamit Kachru and Cumrun Vafa",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9308083,
+      "title": "Mirror Symmetry for Two Parameter Models -- I",
+      "authors": "Philip Candelas, Xenia de la Ossa, Anamaria Font, Sheldon Katz and",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9308122,
+      "title": "Mirror Symmetry, Mirror Map and Applications to Calabi-Yau Hypersurfaces",
+      "authors": "S. Hosono, A. Klemm, S. Theisen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411048,
+      "title": "Simple Singularities and N=2 Supersymmetric Yang-Mills Theory",
+      "authors": "A. Klemm, W. Lerche, S. Theisen and S. Yankielowicz",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411057,
+      "title": "The Vacuum Structure and Spectrum of N=2 Supersymmetric SU(N) Gauge",
+      "authors": "Philip C. Argyres and Alon E. Faraggi",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9501111,
+      "title": "Duality of (0,2) String Vacua",
+      "authors": "Jacques Distler and Shamit Kachru",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9502077,
+      "title": "On Gauge Couplings in String Theory",
+      "authors": "Vadim Kaplunovsky and Jan Louis",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9503163,
+      "title": "Dynamics of $SU(N)$ Supersymmetric Gauge Theory",
+      "authors": "J. Ellis, N.E. Mavromatos and D.V. Nanopoulos",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504006,
+      "title": "Perturbative Couplings of Vector Multiplets in $N=2$ Heterotic String",
+      "authors": "Bernard de Wit, Vadim Kaplunovsky, Jan Louis and Dieter Luest",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504034,
+      "title": "Perturbative Prepotential and Monodromies in N=2 Heterotic Superstring",
+      "authors": "I. Antoniadis, S. Ferrara, E. Gava, K.S. Narain and T.R. Taylor",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504145,
+      "title": "Black Hole Condensation and the Unification of String Vacua",
+      "authors": "Brian R. Greene, David R. Morrison, and Andrew Strominger",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505023,
+      "title": "A Stringy Test of the Fate of the Conifold",
+      "authors": "Piljin Yi",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505053,
+      "title": "A One-Loop Test Of String Duality",
+      "authors": "Cumrun Vafa and Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505062,
+      "title": "New Phenomena in SU(3) Supersymmetric Gauge Theory",
+      "authors": "Philip C. Argyres and Michael R. Douglas",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505162,
+      "title": "Second-Quantized Mirror Symmetry",
+      "authors": "D. Cangemi (UCLA), R. Jackiw and B. Zwiebach (MIT)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9302103,
+      "title": "Holomorphic Anomalies in Topological Field Theories",
+      "authors": "M.Bershadsky, S.Cecotti, H.Ooguri and C.Vafa (with an appendix by",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9305069,
+      "title": "Dilaton, moduli and string/five-brane duality as seen from four",
+      "authors": "P. Binetruy",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9406032,
+      "title": "Chiral Rings Do Not Suffice: N=(2,2) Theories with Nonzero Fundamental",
+      "authors": "P.S. Aspinwall and D.R. Morrison",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9409188,
+      "title": "On Orbifolds with Discrete Torsion",
+      "authors": "Cumrun Vafa and Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505105,
+      "title": "Exact Results for N=2 Compactifications of Heterotic Strings",
+      "authors": "Shamit Kachru and Cumrun Vafa",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506048,
+      "title": "Moduli Space of CHL Strings",
+      "authors": "Robert Carroll (Mathematics Dept., University of Illinois, Urbana, IL)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505054,
+      "title": "Maximally Supersymmetric String Theories in D<10",
+      "authors": "Shyamoli Chaudhuri, G. Hockney, and Joseph D. Lykken",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9505162,
+      "title": "Second-Quantized Mirror Symmetry",
+      "authors": "D. Cangemi (UCLA), R. Jackiw and B. Zwiebach (MIT)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506112,
+      "title": "K3--Fibrations and Heterotic-Type II String Duality",
+      "authors": "A.Klemm, W.Lerche and P.Mayr",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9406055,
+      "title": "Mirror Symmetry, Mirror Map and Applications to Complete Intersection",
+      "authors": "Ziemowit Popowicz (Institute of Theoretical Physics, University of",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9408036,
+      "title": "On the Geometry of Moduli Space of Vacua in N=2 Supersymmetric",
+      "authors": "A. Ceresole, R. D'Auria and S. Ferrara",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411234,
+      "title": "Arithmetic Properties of Mirror Map and Quantum Coupling",
+      "authors": "Bong H. Lian and Shing-Tung Yau",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9412200,
+      "title": "On Electromagnetic Duality in Locally Supersymmetric N=2 Yang--Mills",
+      "authors": "A. Ceresole, R. D'Auria, S. Ferrara and A. Van Proeyen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506075,
+      "title": "A Search for Non-Perturbative Dualities of Local $N=2$ Yang--Mills",
+      "authors": "A. Ceresole, M. Billo', R. D'Auria, S. Ferrara, P. Fre', T. Regge, P.",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506091,
+      "title": "Mirror Symmetry and the Moduli Space for Generic Hypersurfaces in Toric",
+      "authors": "P. Berglund, S. Katz and A. Klemm",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506144,
+      "title": "11-Dimensional Supergravity Compactified on Calabi-Yau Threefolds",
+      "authors": "A.C. Cadavid, A. Ceresole, R. D'Auria and S. Ferrara",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506024,
+      "title": "A Note on the String Analog of $N=2$ Super-Symmetric Yang-Mills",
+      "authors": "C. Gomez and E. Lopez",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506112,
+      "title": "K3--Fibrations and Heterotic-Type II String Duality",
+      "authors": "A.Klemm, W.Lerche and P.Mayr",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9507050,
+      "title": "Dual String Pairs With N=1 And N=2 Supersymmetry In Four Dimensions",
+      "authors": "Cumrun Vafa and Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506048,
+      "title": "Moduli Space of CHL Strings",
+      "authors": "Robert Carroll (Mathematics Dept., University of Illinois, Urbana, IL)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506077,
+      "title": "The Power of Duality -- Exact Results in 4D SUSY Field Theory",
+      "authors": "A. Ceresole, M. Billo', R. D'Auria, S. Ferrara, P. Fre', T. Regge, P.",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506110,
+      "title": "Aspects of Duality in N=2 String Vacua",
+      "authors": "Paolo Pasti, Dmitrij Sorokin and Mario Tonin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506160,
+      "title": "Ten Dimensional Heterotic String as a Soliton",
+      "authors": "Kris Thielemans",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506194,
+      "title": "String-String Duality in Ten Dimensions",
+      "authors": "C.M. Hull",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9507027,
+      "title": "Type IIA Dual of the Six-Dimensional CHL Compactification",
+      "authors": "John H. Schwarz and Ashoke Sen",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9507158,
+      "title": "Fivebranes, Membranes and Non-Perturbative String Theory",
+      "authors": "Katrin Becker, Melanie Becker and Andrew Strominger",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9207060,
+      "title": "Type II p-branes: the brane-scan revisited",
+      "authors": "M. J. Duff and J. X. Lu",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9503212,
+      "title": "Criteria for Conformal Invariance of (0,2) Models",
+      "authors": "Eva Silverstein and Edward Witten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506126,
+      "title": "Eleven Dimensional Origin of String/String Duality: A One Loop Test",
+      "authors": "M. J. Duff, James T. Liu and R. Minasian",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506144,
+      "title": "11-Dimensional Supergravity Compactified on Calabi-Yau Threefolds",
+      "authors": "A.C. Cadavid, A. Ceresole, R. D'Auria and S. Ferrara",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506150,
+      "title": "Compactification of D=11 supergravity on spaces of exceptional holonomy",
+      "authors": "K. Intriligator, R.G. Leigh, M.J. Strassler (Rutgers Univ.)",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9507048,
+      "title": "p-Brane Democracy",
+      "authors": "F. De Jonghe, A.J. Macfarlane, K. Peeters and J.W. van Holten",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9508094,
+      "title": "Four Dimensional String/String/String Triality",
+      "authors": "C. P. Burgess, R. C. Myers, F. Quevedo",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9303106,
+      "title": "Axion-Dilaton Black Holes",
+      "authors": "Renata Kallosh",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9410073,
+      "title": "Higher-dimensional resolution of dilatonic black hole singularities",
+      "authors": "G. W. Gibbons, Gary T. Horowitz and P. K. Townsend",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411187,
+      "title": "Black Hole Solutions in Heterotic String Theory on a Torus",
+      "authors": "Beatriz Gato-Rivera and Jose Ignacio Rosado",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504081,
+      "title": "Duality in the Type--II Superstring Effective Action",
+      "authors": "E. Bergshoeff, C.M. Hull and T. Ortin",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9504095,
+      "title": "String-Membrane Duality in Seven Dimensions",
+      "authors": "E. Elizalde and S.D. Odintsov",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9506057,
+      "title": "Supersymmetry and Dual String Solitons",
+      "authors": "M.J. Duff, Sergio Ferrara, Ramzi R. Khuri and Joachim Rahmfeld",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9507090,
+      "title": "Dyonic BPS Saturated Black Holes of Heterotic String on a Six-Torus",
+      "authors": "E.Vinteler",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9508056,
+      "title": "Heterotic-Type II String Duality and the H-Monopole Problem",
+      "authors": "L. Girardello, M. Porrati and A. Zaffaroni",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9508155,
+      "title": "Nonperturbative Results on the Point Particle Limit of N=2 Heterotic",
+      "authors": "S. James Gates, Jr",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9304135,
+      "title": "ALE manifolds and Conformal Field Theory",
+      "authors": "D. Anselmi, M. Bill'o, P. Fr'e, L. Girardello, A. Zaffaroni",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    },
+    {
+      "id": 9411057,
+      "title": "The Vacuum Structure and Spectrum of N=2 Supersymmetric SU(N) Gauge",
+      "authors": "Philip C. Argyres and Alon E. Faraggi",
+      "type": "circle",
+      "size": 20,
+      "color": "#66CC33"
+    }
+  ]
+}
